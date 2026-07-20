@@ -7,3 +7,31 @@
 
 "Vision":
   color: "#009f36"
+
+"COLING":
+  url: https://coling2025.org/
+  color: "#2a6f97"
+
+"ICWS":
+  url: https://conferences.computer.org/icws/
+  color: "#bc4749"
+
+"ICSOC":
+  url: https://icsoc.org/
+  color: "#e09f3e"
+
+"TSC":
+  url: https://www.computer.org/csdl/journal/sc
+  color: "#9b2226"
+
+"APIN":
+  url: https://link.springer.com/journal/10489
+  color: "#386641"
+
+"SIMPAT":
+  url: https://www.sciencedirect.com/journal/simulation-modelling-practice-and-theory
+  color: "#3a5a40"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#b31b1b"
