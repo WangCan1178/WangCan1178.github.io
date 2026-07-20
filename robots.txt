@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://WangCan1178.github.io/sitemap.xml
