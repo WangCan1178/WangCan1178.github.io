@@ -43,7 +43,7 @@ I study LLM agents. My work centers on making large language model services more
   Controllable data synthesis and training for financial scenarios
 - **Head of Algorithms**, [Shenzhen Yangli Technology Enterprises](https://www.qcc.com/firm/acbd868e3a81ceb6a61a01f0e903b6b3.html) (AI-for-Science startup), 2026 – Present  
   Leading algorithm research and development on using AI to assist finite element analysis for scientific research
-- **National Key R&D Program**, [ICES](https://encs.hit.edu.cn/2021/1224/c14651a267021/page.htm) / Shandong Key Laboratory of Digital Service Computing Technology and Systems, 2024 – 2025  
+- **National Key R&D Program**, [ICES](https://encs.hit.edu.cn/2021/1224/c14651a267021/page.htm), 2024 – 2025  
   Key technologies for large-scale complex digital service networks
 
 ### Honors
