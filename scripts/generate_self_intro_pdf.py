@@ -383,7 +383,7 @@ def main():
         pdf,
         [
             (
-                "Conference Reviewer: ICML 2026, NeurIPS 2026, ACM MM 2026, ICWS 2025, ICSOC 2025",
+                "Conference Reviewer: AAAI 2026, ICML 2026, NeurIPS 2026, ACM MM 2026, ICWS 2025, ICSOC 2025",
                 None,
                 "text",
             )
