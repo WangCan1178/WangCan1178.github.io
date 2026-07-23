@@ -8,6 +8,7 @@ nav_order: 2
 
 ## Conference Reviewer
 
+- AAAI Conference on Artificial Intelligence (**AAAI**, 2026)
 - International Conference on Machine Learning (**ICML**, 2026)
 - Conference on Neural Information Processing Systems (**NeurIPS**, 2026)
 - ACM International Conference on Multimedia (**ACM MM**, 2026)
