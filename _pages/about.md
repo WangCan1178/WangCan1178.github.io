@@ -21,10 +21,10 @@ latest_posts:
 
 I am currently a Ph.D. student in Software Engineering at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/), under the supervision of Prof. [Zhiying Tu](https://homepage.hit.edu.cn/tzy). I am affiliated with the [Research Center of Intelligent Computing for Enterprises & Services (ICES)](https://encs.hit.edu.cn/2021/1224/c14651a267021/page.htm). Previously, I received my B.E. in Software Engineering from HIT.
 
-I study LLM agents. My work centers on making large language model services more effective, reliable, and usable in real systems. Currently, I focus on controllable data synthesis and training at [Alibaba Cloud Tongyi](https://tongyi.aliyun.com/). Previously, I worked on service invocation, performance estimation, and self-improvement for LLM agents. My research interests include:
+I study LLM agents. My work centers on making large language model services more effective, reliable, and usable in real applications. Currently, I focus on controllable data synthesis and training for the financial domain at [Alibaba Cloud Tongyi](https://tongyi.aliyun.com/). Previously, I worked on LLM invocation quality and self-improvement for LLM agents. My research interests include:
 
-- **Service invocation**: Building effective strategies for LLM agents to call and compose services under cost, latency, and quality constraints ([COLING'25](/publications/#wang2025framework)).
-- **Performance estimation**: Estimating the performance of LLM agents and their underlying services without labeled data, and selecting suitable models for different queries ([ICSOC'24](/publications/#wang2024plug), [ARMS](/publications/#wang2026arms)).
+- **LLM applications**: Building domain-specific datasets through automatic pipeline, developing practical training and evaluation methods, and adapting LLMs to real application scenarios for deployed services ([COLING'25](/publications/#wang2025framework)).
+- **LLM invocation quality**: Estimating LLM service performance without labeled data, and selecting suitable models for different queries to improve invocation quality in practice ([ICSOC'24](/publications/#wang2024plug), [ARMS](/publications/#wang2026arms)).
 - **Self-improvement**: Enabling LLM agents to discover unused capabilities, repair failed actions, and improve themselves through interaction ([ICWS'25](/publications/#wang2025unlocking), [SkillAudit](/publications/#gao2026skillaudit)).
 
 
@@ -40,7 +40,7 @@ I study LLM agents. My work centers on making large language model services more
 ### Experience
 
 - **Research Intern**, [Alibaba Cloud Tongyi](https://tongyi.aliyun.com/), 2025 – Present  
-  Controllable data synthesis and training
+  Controllable data synthesis and training for the financial domain
 - **Head of Algorithms**, [Shenzhen Yangli Technology Enterprises](https://www.qcc.com/firm/acbd868e3a81ceb6a61a01f0e903b6b3.html) (AI-for-Science startup), 2026 – Present  
   Leading algorithm research and development on using AI to assist finite element analysis for scientific research
 - **National Key R&D Program**, [ICES](https://encs.hit.edu.cn/2021/1224/c14651a267021/page.htm), 2024 – 2025  
