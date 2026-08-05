@@ -21,7 +21,7 @@ latest_posts:
 
 I am currently a Ph.D. student in Software Engineering at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/), under the supervision of Prof. [Zhiying Tu](https://homepage.hit.edu.cn/tzy). I am affiliated with the [Research Center of Intelligent Computing for Enterprises & Services (ICES)](https://encs.hit.edu.cn/2021/1224/c14651a267021/page.htm). Previously, I received my B.E. in Software Engineering from HIT.
 
-I study LLM agents. My work centers on making large language model services more effective, reliable, and usable in real applications. Currently, I focus on controllable data synthesis and training for the financial domain at [Alibaba Cloud Tongyi](https://tongyi.aliyun.com/). Previously, I worked on LLM invocation quality and self-improvement for LLM agents. My research interests include:
+I study LLM agents. My work centers on making large language model services more effective, reliable, and usable in real applications. Currently, I focus on controllable data synthesis for evaluation, and training for the financial domain at [Alibaba Cloud Tongyi](https://tongyi.aliyun.com/). Previously, I worked on LLM invocation quality and self-improvement for LLM agents. My research interests include:
 
 - **LLM applications**: Building domain-specific datasets through automatic pipeline, developing practical training and evaluation methods, and adapting LLMs to real application scenarios for deployed services ([COLING'25](/publications/#wang2025framework)).
 - **LLM invocation quality**: Estimating LLM service performance without labeled data, and selecting suitable models for different queries to improve invocation quality in practice ([ICSOC'24](/publications/#wang2024plug), [ARMS](/publications/#wang2026arms)).
@@ -40,7 +40,7 @@ I study LLM agents. My work centers on making large language model services more
 ### Experience
 
 - **Research Intern**, [Alibaba Cloud Tongyi](https://tongyi.aliyun.com/), 2025 – Present  
-  Controllable data synthesis and training for the financial domain
+  Agent tool-use robustness ([ExpG](/publications/#wang2026expg) based on the agent memory project [ReMe](https://github.com/agentscope-ai/ReMe)); controllable data synthesis for evaluation ([DeepResearch](/publications/#wang2026deepresearch)); and post-training for the financial domain.
 - **Head of Algorithms**, [Shenzhen Yangli Technology Enterprises](https://www.qcc.com/firm/acbd868e3a81ceb6a61a01f0e903b6b3.html) (AI-for-Science startup), 2026 – Present  
   Leading algorithm research and development on using AI to assist finite element analysis for scientific research
 - **National Key R&D Program**, [ICES](https://encs.hit.edu.cn/2021/1224/c14651a267021/page.htm), 2024 – 2025  
@@ -51,7 +51,7 @@ I study LLM agents. My work centers on making large language model services more
 - National First Prize, The 19th Challenge Cup National College Students' Competition
 - Silver Award, China International College Students' Innovation Competition, 2025
 - Outstanding Graduate of Shandong Province, 2023
-- Meritorious Winner, Mathematical Contest in Modeling (MCM/ICM), 2022
+- Finalist, Mathematical Contest in Modeling (MCM/ICM), 2022
 - National Scholarship, 2021
 - Second Prize, RoboMaster National University Robot Competition, 2021
 
@@ -66,7 +66,6 @@ I study LLM agents. My work centers on making large language model services more
 
 If you are interested in any of the following directions, feel free to reach out — I am happy to collaborate.
 
-- <span style="display:inline-block;margin:0 0.4em 0.15em 0;padding:0.15em 0.55em;border-radius:0.35em;font-size:0.82em;font-weight:600;color:#fff;background:#2a6f97;vertical-align:middle;">Major revision · IEEE TSC</span> **Agent tool use self correction**: Enabling agents to detect and repair failed tool invocations through execution trace diagnosis, schema constrained replanning, and iterative loops that invoke, verify, and repair.
-- <span style="display:inline-block;margin:0 0.4em 0.15em 0;padding:0.15em 0.55em;border-radius:0.35em;font-size:0.82em;font-weight:600;color:#fff;background:#2a6f97;vertical-align:middle;">Under review · NeurIPS 2026</span> **Agent memory**: Designing fine grained memory mechanisms for LLM agents, including structured memory writing and updating, selective retrieval, and context management over extended interactions beyond flat conversation history.
-- <span style="display:inline-block;margin:0 0.4em 0.15em 0;padding:0.15em 0.55em;border-radius:0.35em;font-size:0.82em;font-weight:600;color:#fff;background:#2a9d8f;vertical-align:middle;">In progress</span> **Self evolving deep research agents**: Enabling agents to improve deep research capabilities through self evolution, combining iterative search and reasoning trajectories, reflective critique, and progressive refinement of skills and policies without heavy external supervision.
+- <span style="display:inline-block;margin:0 0.4em 0.15em 0;padding:0.15em 0.55em;border-radius:0.35em;font-size:0.82em;font-weight:600;color:#fff;background:#2a6f97;vertical-align:middle;">Minor revision · IEEE TSC</span> **Agent tool use self correction**: Enabling agents to detect and repair failed tool invocations through execution trace diagnosis, schema constrained replanning, and iterative loops that invoke, verify, and repair.
+- <span style="display:inline-block;margin:0 0.4em 0.15em 0;padding:0.15em 0.55em;border-radius:0.35em;font-size:0.82em;font-weight:600;color:#fff;background:#2a9d8f;vertical-align:middle;">In progress</span> **Agent post-training**: Designing reward signals and post-training pipelines for LLM agents, including preference optimization, reinforcement learning from interaction feedback, and aligning agent behavior for long-horizon tool use and decision making.
 - <span style="display:inline-block;margin:0 0.4em 0.15em 0;padding:0.15em 0.55em;border-radius:0.35em;font-size:0.82em;font-weight:600;color:#fff;background:#2a9d8f;vertical-align:middle;">In progress</span> **AI assisted finite element analysis**: Developing AI methods to assist finite element analysis, exploring surrogate modeling, learning that incorporates mesh structure, and acceleration of simulation pipelines learned from data.
