@@ -250,7 +250,7 @@ def main():
             (
                 "I study LLM agents, focusing on making large language model services more effective, "
                 "reliable, and usable in real applications. Currently, I work on controllable data synthesis "
-                "and training for the financial domain at ",
+                "for evaluation, and training for the financial domain at ",
                 None,
                 "text",
             ),
@@ -302,7 +302,7 @@ def main():
             ("Research Intern, ", None, "text"),
             ("Alibaba Cloud Tongyi", URL_TONGYI, "link"),
             (
-                ", 2025 – Present — Controllable data synthesis and training for the financial domain",
+                ", 2025 – Present — Controllable data synthesis for evaluation; training for the financial domain",
                 None,
                 "text",
             ),
@@ -403,7 +403,7 @@ def main():
         "National First Prize, The 19th Challenge Cup National College Students' Competition",
         "Silver Award, China International College Students' Innovation Competition, 2025",
         "Outstanding Graduate of Shandong Province, 2023",
-        "Meritorious Winner, Mathematical Contest in Modeling (MCM/ICM), 2022",
+        "Finalist, Mathematical Contest in Modeling (MCM/ICM), 2022",
         "National Scholarship, 2021",
         "Second Prize, RoboMaster National University Robot Competition, 2021",
     ]
