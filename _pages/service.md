@@ -17,4 +17,5 @@ nav_order: 2
 
 ## Journal Reviewer
 
+- Information Sciences (**INS**)
 - IEEE Transactions on Services Computing (**TSC**)
