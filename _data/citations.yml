@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-14'
+  last_updated: '2026-08-26'
 papers:
   glKP6tYAAAAJ:2osOgNQ5qMEC:
     citations: 2
@@ -22,7 +22,7 @@ papers:
     title: A Framework for Effective Invocation Methods of Various LLM Services
     year: '2025'
   glKP6tYAAAAJ:W7OEmFMy1HYC:
-    citations: 4
+    citations: 5
     title: 'SkillAudit: Ground-Truth-Free Skill Evolution via Paired Trajectory Auditing'
     year: '2026'
   glKP6tYAAAAJ:Y0pCki6q_DkC:
@@ -42,6 +42,6 @@ papers:
     title: A Survey on Effective Invocation Methods of Massive LLM Services
     year: '2024'
   glKP6tYAAAAJ:zYLM7Y9cAGgC:
-    citations: 0
+    citations: 1
     title: Revisiting NFT Transactions in Web 3.0 Service Through the Lenses of Higher-Order Network
     year: '2025'
