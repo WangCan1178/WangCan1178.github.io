@@ -26,6 +26,7 @@ I study LLM agents. My work centers on making large language model services more
 - **LLM applications**: Building domain-specific datasets through automatic pipeline, developing practical training and evaluation methods, and adapting LLMs to real application scenarios for deployed services ([COLING'25](/publications/#wang2025framework)).
 - **LLM invocation quality**: Estimating LLM service performance without labeled data, and selecting suitable models for different queries to improve invocation quality in practice ([ICSOC'24](/publications/#wang2024plug), [ARMS](/publications/#wang2026arms)).
 - **Self-improvement**: Enabling LLM agents to discover unused capabilities, repair failed actions, and improve themselves through interaction ([ICWS'25](/publications/#wang2025unlocking), [SkillAudit](/publications/#gao2026skillaudit)).
+- **Service documents**: Automatically evaluating and generating fine-grained descriptions in Web API service documents ([IEEE TSC](/publications/#wang2026detail)).
 
 
 ## Personal Information
@@ -66,6 +67,5 @@ I study LLM agents. My work centers on making large language model services more
 
 If you are interested in any of the following directions, feel free to reach out — I am happy to collaborate.
 
-- <span style="display:inline-block;margin:0 0.4em 0.15em 0;padding:0.15em 0.55em;border-radius:0.35em;font-size:0.82em;font-weight:600;color:#fff;background:#2a6f97;vertical-align:middle;">Minor revision · IEEE TSC</span> **Agent tool use self correction**: Enabling agents to detect and repair failed tool invocations through execution trace diagnosis, schema constrained replanning, and iterative loops that invoke, verify, and repair.
 - <span style="display:inline-block;margin:0 0.4em 0.15em 0;padding:0.15em 0.55em;border-radius:0.35em;font-size:0.82em;font-weight:600;color:#fff;background:#2a9d8f;vertical-align:middle;">In progress</span> **Agent post-training**: Designing reward signals and post-training pipelines for LLM agents, including preference optimization, reinforcement learning from interaction feedback, and aligning agent behavior for long-horizon tool use and decision making.
 - <span style="display:inline-block;margin:0 0.4em 0.15em 0;padding:0.15em 0.55em;border-radius:0.35em;font-size:0.82em;font-weight:600;color:#fff;background:#2a9d8f;vertical-align:middle;">In progress</span> **AI assisted finite element analysis**: Developing AI methods to assist finite element analysis, exploring surrogate modeling, learning that incorporates mesh structure, and acceleration of simulation pipelines learned from data.
