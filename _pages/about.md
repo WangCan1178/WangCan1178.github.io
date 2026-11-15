@@ -1,8 +1,10 @@
 ---
 layout: about
-title: Can Wang (王灿)
+title: Can Wang
+title_zh: 王灿
 permalink: /
 subtitle: Ph.D. Student in Software Engineering, Harbin Institute of Technology (HIT)
+subtitle_zh: 哈尔滨工业大学软件工程专业博士研究生
 
 profile:
   align: right
@@ -19,53 +21,11 @@ latest_posts:
   enabled: false
 ---
 
-I am currently a Ph.D. student in Software Engineering at [Harbin Institute of Technology (HIT)](https://www.hit.edu.cn/), under the supervision of Prof. [Zhiying Tu](https://homepage.hit.edu.cn/tzy). I am affiliated with the [Research Center of Intelligent Computing for Enterprises & Services (ICES)](https://encs.hit.edu.cn/2021/1224/c14651a267021/page.htm). Previously, I received my B.E. in Software Engineering from HIT.
-
-I study LLM agents. My work centers on making large language model services more effective, reliable, and usable in real applications. Currently, I focus on controllable data synthesis for evaluation, and training for the financial domain at [Alibaba Cloud Tongyi](https://tongyi.aliyun.com/). Previously, I worked on LLM invocation quality and self-improvement for LLM agents. My research interests include:
-
-- **LLM applications**: Building domain-specific datasets through automatic pipeline, developing practical training and evaluation methods, and adapting LLMs to real application scenarios for deployed services ([COLING'25](/publications/#wang2025framework)).
-- **LLM invocation quality**: Estimating LLM service performance without labeled data, and selecting suitable models for different queries to improve invocation quality in practice ([ICSOC'24](/publications/#wang2024plug), [ARMS](/publications/#wang2026arms)).
-- **Self-improvement**: Enabling LLM agents to discover unused capabilities, repair failed actions, and improve themselves through interaction ([ICWS'25](/publications/#wang2025unlocking), [SkillAudit](/publications/#gao2026skillaudit)).
-- **Service documents**: Automatically evaluating and generating fine-grained descriptions in Web API service documents ([IEEE TSC](/publications/#wang2026detail)).
-
-
-## Personal Information
-
-### Education
-
-- **Ph.D. in Software Engineering**, Harbin Institute of Technology, Sep. 2023 – Present  
-  - Advisor: Prof. [Zhiying Tu](https://homepage.hit.edu.cn/tzy)  
-- **B.E. in Software Engineering**, Harbin Institute of Technology, Sep. 2019 – Jun. 2023
-  - GPA: 90.28/100; Rank: 2/33
-
-### Experience
-
-- **Research Intern**, [Alibaba Cloud Tongyi](https://tongyi.aliyun.com/), 2025 – Present  
-  Agent tool-use robustness ([ExpG](/publications/#wang2026expg) based on the agent memory project [ReMe](https://github.com/agentscope-ai/ReMe)); controllable data synthesis for evaluation ([DeepResearch](/publications/#wang2026deepresearch)); and post-training for the financial domain.
-- **Head of Algorithms**, [Shenzhen Yangli Technology Enterprises](https://www.qcc.com/firm/acbd868e3a81ceb6a61a01f0e903b6b3.html) (AI-for-Science startup), 2026 – Present  
-  Leading algorithm research and development on using AI to assist finite element analysis for scientific research
-- **National Key R&D Program**, [ICES](https://encs.hit.edu.cn/2021/1224/c14651a267021/page.htm), 2024 – 2025  
-  Key technologies for large-scale complex digital service networks
-
-### Honors
-
-- National First Prize, The 19th Challenge Cup National College Students' Competition
-- Silver Award, China International College Students' Innovation Competition, 2025
-- Outstanding Graduate of Shandong Province, 2023
-- Finalist, Mathematical Contest in Modeling (MCM/ICM), 2022
-- National Scholarship, 2021
-- Second Prize, RoboMaster National University Robot Competition, 2021
-
-### Contact
-
-- Email: [23B903072@stu.hit.edu.cn](mailto:23B903072@stu.hit.edu.cn)
-- GitHub: [WangCan1178](https://github.com/WangCan1178)
-- Google Scholar: [Can Wang](https://scholar.google.com/citations?user=glKP6tYAAAAJ)
-- OpenReview: [Can Wang](https://openreview.net/profile?id=~Can_Wang9)
-
-## Ongoing Work
-
-If you are interested in any of the following directions, feel free to reach out — I am happy to collaborate.
-
-- <span style="display:inline-block;margin:0 0.4em 0.15em 0;padding:0.15em 0.55em;border-radius:0.35em;font-size:0.82em;font-weight:600;color:#fff;background:#2a9d8f;vertical-align:middle;">In progress</span> **Agent post-training**: Designing reward signals and post-training pipelines for LLM agents, including preference optimization, reinforcement learning from interaction feedback, and aligning agent behavior for long-horizon tool use and decision making.
-- <span style="display:inline-block;margin:0 0.4em 0.15em 0;padding:0.15em 0.55em;border-radius:0.35em;font-size:0.82em;font-weight:600;color:#fff;background:#2a9d8f;vertical-align:middle;">In progress</span> **AI assisted finite element analysis**: Developing AI methods to assist finite element analysis, exploring surrogate modeling, learning that incorporates mesh structure, and acceleration of simulation pipelines learned from data.
+<div class="lang-only" data-lang="en">
+{% capture about_en %}{% include about/en.md %}{% endcapture %}
+{{ about_en | markdownify }}
+</div>
+<div class="lang-only" data-lang="zh">
+{% capture about_zh %}{% include about/zh.md %}{% endcapture %}
+{{ about_zh | markdownify }}
+</div>
